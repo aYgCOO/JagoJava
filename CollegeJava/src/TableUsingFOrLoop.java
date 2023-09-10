@@ -1,5 +1,5 @@
 import java.util.*;
-public class Fortable {
+public class TableUsingFOrLoop {
     public static void main(String arg[]){
         int table, formula, i;
         System.out.println("Table :-");

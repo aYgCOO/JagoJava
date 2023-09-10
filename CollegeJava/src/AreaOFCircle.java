@@ -1,5 +1,5 @@
 import  java.util.*;
-public class Area {
+public class AreaOFCircle {
     public static void  main(String arg[]){
         int r ;
         double s, pi = 3.14;

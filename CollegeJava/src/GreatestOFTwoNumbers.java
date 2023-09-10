@@ -1,5 +1,5 @@
 import java.util.*;
-public class Greatesnum {
+public class GreatestOFTwoNumbers {
     public static void main(String arg[]){
         int a,b,c;
         System.out.println("Enter the value of a:- ");

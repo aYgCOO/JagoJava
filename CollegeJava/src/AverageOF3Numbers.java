@@ -1,5 +1,5 @@
 import java.util.*;
-public class Avg3 {
+public class AverageOF3Numbers {
     public static void main(String arg[]){
         int a,b,c,avg;
         System.out.println("Enter the value of a:- ");

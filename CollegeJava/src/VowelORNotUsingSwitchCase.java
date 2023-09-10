@@ -1,5 +1,5 @@
 import java.util.*;
-public class Switchvowel {
+public class VowelORNotUsingSwitchCase {
     public static void main(String arg[]){
         char character;
         System.out.print("Enter a character : ");

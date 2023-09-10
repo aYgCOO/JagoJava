@@ -1,5 +1,5 @@
 import java.util.*;
-public class Switchcalculoter {
+public class CalculatorUsingSwitchCase {
     public static void main(String arg[]){
         int calculator, value,  value_a, value_b;
         System.out.println("1 Addition.");

@@ -1,5 +1,5 @@
 import java.util.*;
-public class leapear {
+public class LeapYearOrNot {
     public static void main(String arg[]){
         int year;
         System.out.println("Enter a year :- ");
