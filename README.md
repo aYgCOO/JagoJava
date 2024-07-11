@@ -1,2 +1,2 @@
 # JagoJava
-HaHa! Funny name :)  by the way - It's a Java repository.   Java - by Ayanabha Chatterjee . If you try to connect with me mail me :- @ayanabhachatterjee.gmail.com 
+<strong>HaHa! That's a funny name :) By the way, it's a Java repository, specially designed to be very helpful for beginners.</strong>
